@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mainTestNg" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-14T18:35:25" hostname="DESKTOP-2AMJ60Q" time="4.238">
+  <properties/>
+  <testcase name="mainTest[0](recinnamuj-6813@yopmail.com, 4187260.pacheco)" classname="mainTestNg" time="4.238"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}) on port 21577
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jan 14, 2022 1:35:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
